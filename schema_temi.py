@@ -7,7 +7,7 @@ schema={
          "description": "id of temi",
          "type": "string"
       },
-      "test": {
+      "address": {
          "description": "address of temi",
          "type": "string",
          "format": "hostname"
