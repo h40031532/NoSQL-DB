@@ -1,4 +1,4 @@
-schema={
+schema={ 
    "title": "temi host",
    "description": "real-time information about Temi",
    "type": "object",
@@ -7,7 +7,7 @@ schema={
          "description": "id of temi",
          "type": "string"
       },
-      "address": {
+      "test": {
          "description": "address of temi",
          "type": "string",
          "format": "hostname"
