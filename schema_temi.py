@@ -21,6 +21,10 @@ schema={
          "description": "battery voltage of temi",
          "type": "number"
       },
+      "batteryPercentage": {
+         "description": "battery voltage of temi",
+         "type": "number"
+      },
       "wifi": {
          "description": "temi network connection status",
          "type": "string"
